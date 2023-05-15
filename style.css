@@ -1,23 +1,27 @@
 .backgound-page {
   background-color: #92caf7; 
-  width: 1500px;
-  height: 700px;
+  width: 700px;
+  height: 1500px;
 }
 
 .layer-one {
   width: 100%;
   height: 600px;
   backgound-color: #4a6ded;
+  border-radius: 1rem;
+  margin-top: 2rem;
   display: flex;
   justify-content: center;
   align-items: center;
+
 }
 
 .layer-two {
-  width: 200px;
+  width: 230px;
   height: 400px;
   background-color: #FFFFFF; 
-  border-radius: 13px;
+  border-radius: 15px;
+  margin-top: 15px;
   display: inline-block;
 }
 
@@ -25,6 +29,6 @@ div h4 {
   text-align: center;
 }
 
-div p {
+div h5 {
   text-align: center;
 }
