@@ -8,8 +8,6 @@
   width: 100%;
   height: 600px;
   backgound-color: #4a6ded;
-  border-radius: 1rem;
-  margin-top: 2rem;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -24,7 +22,10 @@
   margin-top: 15px;
   display: inline-block;
 }
-
+.layer-two {
+ border-radius: 1rem;
+  margin-top: 2rem;
+}
 div h4 {
   text-align: center;
 }
